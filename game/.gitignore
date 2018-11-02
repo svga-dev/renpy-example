@@ -1,0 +1,8 @@
+*.txt
+tmp/
+*.rpyb
+*.rpyc
+*.rpymc
+game/*.bak
+game/saves/
+game/*.ico
